@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hello there, fellow <coders/>! 👋
 
-<!--
-**Thanh2775/Thanh2775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="200" src="https://octodex.github.com/images/octocat-de-los-muertos.jpg">
 
-Here are some ideas to get you started:
+![GitHub](https://img.shields.io/badge/GitHub-jonnyphan-black)
+![Email](https://img.shields.io/badge/Gmail-jonny@gmail.com-red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am **Phan Lập Thành** 😄  
+I am from **Nha Trang, Vietnam**, and currently studying **Software Engineering (B.Tech - SE)** at **SaiGon University**.
+
+I enjoy exploring new ideas and learning new technologies.  
+I especially like **creative project ideas**, and I often spend hours discussing and brainstorming those ideas with my teammates.
+
+---
+
+## ⚡ Technologies
+
+**Talk to me about:**
+
+- **Front-end:** HTML, CSS, JavaScript, React, TailwindCSS  
+- **Back-end:** Django, Laravel, Spring Boot, Java  
+- **Database:** MySQL, MongoDB  
+- **Cloud:** AWS  
+- **Design & Prototyping:** Figma, Latext
+
+---
+
+## 👋 Hello World!!
+
+- 💬 **Ask me about:** Web development, project ideas, and software engineering.
+- 🌐 **Portfolio:** https://your-portfolio-link.com
+- 📫 **How to reach me:** your-email@gmail.com
+### ⚡ Fun Facts
+
+- I can spend hours discussing creative project ideas with my teammates.
+- I usually discuss problems deeply with my leader to fully understand them before starting to code.
+- I feel pretty motivated after finishing a task and receiving a simple compliment from my team.
