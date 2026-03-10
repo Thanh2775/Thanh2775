@@ -1,4 +1,4 @@
-# Hello there, fellow <coders/>! 👋
+<img width="1748" height="320" alt="image" src="https://github.com/user-attachments/assets/7961b1f2-6adc-48a3-807a-33d3035dca9b" /># Hello there, fellow <coders/>! 👋
 
 <img align="right" width="200" src="https://octodex.github.com/images/octocat-de-los-muertos.jpg">
 
@@ -28,7 +28,7 @@ I especially like **creative project ideas**, and I often spend hours discussing
 ## 👋 Hello World!!
 
 - 💬 **Ask me about:** Web development, project ideas, and software engineering.
-- 🌐 **Portfolio:** https://your-portfolio-link.com
+- 🌐 **Portfolio:** https://thanh2775.github.io/
 - 📫 **How to reach me:** phanthanh2775@gmail.com
 ### ⚡ Fun Facts
 
