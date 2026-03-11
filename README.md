@@ -1,4 +1,4 @@
-<img width="1748" height="320" alt="image" src="https://github.com/user-attachments/assets/7961b1f2-6adc-48a3-807a-33d3035dca9b" /># Hello there, fellow <coders/>! 👋
+# Hello there, fellow <coders/>! 👋
 
 <img align="right" width="200" src="https://octodex.github.com/images/octocat-de-los-muertos.jpg">
 
